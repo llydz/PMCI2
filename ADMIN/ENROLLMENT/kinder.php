@@ -24,7 +24,8 @@
         <div class="enroll">
 
             <div class="grade">
-                <a href="#">KINDER</a>
+                <a class="active" href="#">KINDER 1</a>
+                <a href="#">KINDER 2</a>
                 <a href="#">GRADE 1</a>
                 <a href="#">KINDER 2</a>
                 <a href="#">GRADE 1</a>

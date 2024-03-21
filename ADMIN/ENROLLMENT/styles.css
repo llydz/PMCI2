@@ -135,6 +135,12 @@ td {
     color: rgb(255, 255, 14);
 }
 
+.grade .active {
+
+    background-color: #01bb48;
+    color: rgb(255, 255, 14);;
+}
+
 
 
 

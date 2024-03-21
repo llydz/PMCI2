@@ -42,7 +42,7 @@
             </div>
 
             <div class="tbl">
-                <h1>CHOOSE A GRADE LEVEL</h1>
+                <p>Choose a grade level</p>
             </div>
         </div>
 
