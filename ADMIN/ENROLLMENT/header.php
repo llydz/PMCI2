@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="./styles/header.css">
-<link rel="icon" href="./styles/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="./header.css">
+<link rel="icon" href="../styles/favicon.ico" type="image/x-icon">
 
 <header>
     <h2>PHILIPPINE MALABON CULTURAL INSTITUTE</h2>
@@ -14,20 +14,20 @@
     </div>
 
     <?php
-    require 'functions.php';
+    require '../functions.php';
 
     if (isset ($_POST['profile'])) {
-        header('Location: ./profile.php');
+        header('Location: ../profile.php');
         exit();
     }
 
     if (isset ($_POST['news'])) {
-        header('Location: ./home.php');
+        header('Location: ../home.php');
         exit();
     }
 
     if (isset ($_POST['enrollment'])) {
-        header('Location: ./enrollment.php');
+        header('Location: ../enrollment.php');
         exit();
     }
 
