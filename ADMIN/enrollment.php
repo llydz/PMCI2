@@ -24,7 +24,7 @@
         <div class="enroll">
 
             <div class="grade">
-                <a href="./ENROLLMENT/kinder.php">KINDER 1</a>
+                <a href="./ENROLLMENT/kinder1.php">KINDER 1</a>
                 <a href="#">KINDER 2</a>
                 <a href="#">GRADE 1</a>
                 <a href="#">GRADE 2</a>
